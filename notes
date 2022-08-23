@@ -1,0 +1,20 @@
+{
+    "email": "elaothong@gmail.com",
+    "username" : "toru1038",
+    "password" : "password"
+}
+
+{
+    "email": "nantawat.laothong001@umb.edu",
+    "username" : "elaothong",
+    "password" : "password"
+}
+
+{
+    "success": true,
+    "message": "logged in successfully",
+    "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImVsYW90aG9uZyIsImlkIjoiNjMwNDM0MDgzZjY3OGFhNjk1M2RmY2Q1IiwiaWF0IjoxNjYxMjIwNDAyLCJleHAiOjE2NjEzMDY4MDJ9.GBnQL3xhy9SpYooXBaIsMQH-a6tSUOIRxtBn2ewlLyk"
+}
+
+how add interceptor
+https://www.youtube.com/watch?v=UrfhqE7I-3o
